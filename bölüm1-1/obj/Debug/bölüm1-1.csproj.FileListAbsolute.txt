@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\obj\Debug\bölüm1-1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\obj\Debug\bölüm1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\obj\Debug\bölüm1_1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\obj\Debug\bölüm1_1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\obj\Debug\bölüm1-1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\obj\Debug\bölüm1-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\bin\Debug\bölüm1-1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\bin\Debug\bölüm1-1.exe
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\bin\Debug\bölüm1-1.pdb
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\obj\Debug\bölüm1-1.exe
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\bölüm1-1\bölüm1-1\obj\Debug\bölüm1-1.pdb
